@@ -96,7 +96,7 @@ yallamotor-cars/
 
    ```bash
    git clone <repository-url>
-   cd yallamotor-cars
+   cd yalla-used-cars
    ```
 
 2. **Install dependencies**
@@ -122,21 +122,6 @@ yallamotor-cars/
 4. **Open your browser**
 
    Navigate to [http://localhost:3000](http://localhost:3000)
-
-### Available Scripts
-
-```bash
-# Development
-npm run dev          # Start development server
-npm run build        # Build for production
-npm run start        # Start production server
-npm run type-check   # TypeScript type checking
-
-# Testing & Quality
-npm run test         # Run tests
-npm run test:e2e     # End-to-end tests
-npm run lighthouse   # Performance audit
-```
 
 ## 🎯 Key Features
 
